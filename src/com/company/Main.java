@@ -14,7 +14,7 @@ public class Main {
             System.out.print("Средняя");
         } else if (age == 3) {
             System.out.print("Старшая");
-        } else if (age == 4) {
+        } else if (age == 49) {
             System.out.print("подготовительная");
         }
     }
